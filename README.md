@@ -47,16 +47,74 @@ Critical Point: 2-"D" Music (Average: 3.13)
 
 Risk of Grading Inconsistency: 2-"D" Music (Variance: 1.03)
 
-Class Name,Average Grade,AI Diagnosis (Status)
-4-b sinf jismoniy tarbiya,4.75,🟢 High performance
-2-B sinf jismoniy tarbiya,4.41,🟢 High performance
-3-b Musiqa,4.26,🟡 Stable average
-5-b texnologiya,4.18,🟡 Stable average
-7-sinf texnologiya (o'g'il),4.16,🟡 Stable average
-5-a texnologiya,4.15,🟡 Stable average
-7-sinf texnologiya (qiz),4.08,🟡 Stable average
-2-A sinf texnologiya,4.07,🟡 Stable average
-4-A tasviriy san'at,4.07,🟡 Stable average
-3-a tasviriy san'at,3.92,🟡 Stable average
-6-b tasviriy san'at,3.90,🟡 Stable average
-"2-""D"" musiqa",3.13,🔴 Critical condition
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Class Name</th>
+      <th align="center">Average Grade</th>
+      <th align="left">AI Diagnosis (Status)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>4-b sinf jismoniy tarbiya</b></td>
+      <td align="center">4.75</td>
+      <td>🟢 High performance</td>
+    </tr>
+    <tr>
+      <td><b>2-B sinf jismoniy tarbiya</b></td>
+      <td align="center">4.41</td>
+      <td>🟢 High performance</td>
+    </tr>
+    <tr>
+      <td><b>3-b Musiqa</b></td>
+      <td align="center">4.26</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>5-b texnologiya</b></td>
+      <td align="center">4.18</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>7-sinf texnologiya (o'g'il)</b></td>
+      <td align="center">4.16</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>5-a texnologiya</b></td>
+      <td align="center">4.15</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>7-sinf texnologiya (qiz)</b></td>
+      <td align="center">4.08</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>2-A sinf texnologiya</b></td>
+      <td align="center">4.07</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>4-A tasviriy san'at</b></td>
+      <td align="center">4.07</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>3-a tasviriy san'at</b></td>
+      <td align="center">3.92</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>6-b tasviriy san'at</b></td>
+      <td align="center">3.90</td>
+      <td>🟡 Stable average</td>
+    </tr>
+    <tr>
+      <td><b>2-"D" musiqa</b></td>
+      <td align="center">3.13</td>
+      <td>🔴 Critical condition</td>
+    </tr>
+  </tbody>
+</table>
