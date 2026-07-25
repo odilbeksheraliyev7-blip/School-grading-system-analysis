@@ -13,6 +13,7 @@
 | **6-B Fine Arts** | 3.90 | 0.98 | 31 |
 | **7th Grade Technology (Boys)** | 4.16 | 0.90 | 19 |
 | **7th Grade Technology (Girls)** | 4.08 | 0.76 | 13 |
+
 ![Analysis Image](images-of-analysis/image1.jpg)
 ![Analysis Image](images-of-analysis/image2.jpg)
 
@@ -45,3 +46,17 @@ Highest Performance: 4-B Physical Education (Average: 4.75)
 Critical Point: 2-"D" Music (Average: 3.13)
 
 Risk of Grading Inconsistency: 2-"D" Music (Variance: 1.03)
+
+Class Name,Average Grade,AI Diagnosis (Status)
+4-b sinf jismoniy tarbiya,4.75,🟢 High performance
+2-B sinf jismoniy tarbiya,4.41,🟢 High performance
+3-b Musiqa,4.26,🟡 Stable average
+5-b texnologiya,4.18,🟡 Stable average
+7-sinf texnologiya (o'g'il),4.16,🟡 Stable average
+5-a texnologiya,4.15,🟡 Stable average
+7-sinf texnologiya (qiz),4.08,🟡 Stable average
+2-A sinf texnologiya,4.07,🟡 Stable average
+4-A tasviriy san'at,4.07,🟡 Stable average
+3-a tasviriy san'at,3.92,🟡 Stable average
+6-b tasviriy san'at,3.90,🟡 Stable average
+"2-""D"" musiqa",3.13,🔴 Critical condition
