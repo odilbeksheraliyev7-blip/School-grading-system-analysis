@@ -13,4 +13,4 @@
 | **6-B Fine Arts** | 3.90 | 0.98 | 31 |
 | **7th Grade Technology (Boys)** | 4.16 | 0.90 | 19 |
 | **7th Grade Technology (Girls)** | 4.08 | 0.76 | 13 |
-![Chart](images1.png)
+<p align="center"><img src="image1.jpg" width="600"></p>
