@@ -15,7 +15,6 @@
 | **7th Grade Technology (Girls)** | 4.08 | 0.76 | 13 |
 ![Analysis Image](images-of-analysis/image1.jpg)
 ![Analysis Image](images-of-analysis/image2.jpg)
-![Analysis Image](images-of-analysis/image3.jpg)
 
 A low number of unsatisfactory grades may indicate a teacher's tendency to award positive grades, which leads to students acquiring only a superficial understanding.
 
@@ -26,3 +25,23 @@ Recommendations:
 Pedagogical Audit: Organize open classes to review teaching methodologies for 2-D Music and 6-B Fine Arts.
 
 Grade Calibration: Conduct a short workshop for all teachers on the specific criteria for awarding "Excellent" or "Good" grades.
+Individual Approach: For classes with high columns in the red zone (unsatisfactory/satisfactory) on the heatmap, enroll students in additional extracurricular clubs.
+
+![Analysis Image](images-of-analysis/image3.jpg)
+
+The high dispersion (large gap) in 2-D Music and 6-B Fine Arts indicates that students' academic performance varies sharply from one another, or the teacher is using a very wide grading range.
+
+In 4-A Fine Arts and 2-B Physical Education, student grades are close, which means students' knowledge levels are similar or the teacher is grading based on strict, precise criteria.
+
+Recommendation:
+
+Because large gaps in grades can increase stress among students, teachers should rely on a unified grading rubric for assessments.
+Grading based on clear criteria reduces assessment subjectivity and increases student engagement.
+
+ANALYSIS REPORT :
+
+Highest Performance: 4-B Physical Education (Average: 4.75)
+
+Critical Point: 2-"D" Music (Average: 3.13)
+
+Risk of Grading Inconsistency: 2-"D" Music (Variance: 1.03)
