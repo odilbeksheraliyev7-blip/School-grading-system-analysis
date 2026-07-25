@@ -14,3 +14,5 @@
 | **7th Grade Technology (Boys)** | 4.16 | 0.90 | 19 |
 | **7th Grade Technology (Girls)** | 4.08 | 0.76 | 13 |
 ![Analysis Image](images-of-analysis/image1.jpg)
+![Analysis Image](images-of-analysis/image2.jpg)
+![Analysis Image](images-of-analysis/image3.jpg)
