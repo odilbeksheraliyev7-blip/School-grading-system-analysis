@@ -16,3 +16,12 @@
 ![Analysis Image](images-of-analysis/image1.jpg)
 ![Analysis Image](images-of-analysis/image2.jpg)
 ![Analysis Image](images-of-analysis/image3.jpg)
+A low number of unsatisfactory grades may indicate a teacher's tendency to award positive grades, which leads to students acquiring only a superficial understanding.
+
+A wide gap between grades shows either an absence of subjectivity in assessment or that only some of the students are interested in the lessons.
+
+Recommendations:
+
+Pedagogical Audit: Organize open classes to review teaching methodologies for 2-D Music and 6-B Fine Arts.
+
+Grade Calibration: Conduct a short workshop for all teachers on the specific criteria for awarding "Excellent" or "Good" grades.
