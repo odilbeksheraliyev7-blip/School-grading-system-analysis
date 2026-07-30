@@ -1,3 +1,5 @@
+This project was created for educational and portfolio purposes, with the intent of surfacing patterns that could support constructive conversations with teachers and school administration — not to single out or evaluate any individual student, teacher, or class publicly.
+
 # Regarding the quarterly and final exam grades for primary and secondary levels at School No. 53 for the 2024–2025 academic year:
 | Class Name | Average Grade (Mean) | Volatility (Std Dev) | Student Count |
 | :--- | :---: | :---: | :---: |
