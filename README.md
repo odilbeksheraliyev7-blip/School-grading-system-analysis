@@ -54,7 +54,7 @@ Risk of Grading Inconsistency: 2-"D" Music (Variance: 1.03)
     <tr>
       <th align="left">Class Name</th>
       <th align="center">Average Grade</th>
-      <th align="left">AI Diagnosis (Status)</th>
+      <th align="left">Status</th>
     </tr>
   </thead>
   <tbody>
